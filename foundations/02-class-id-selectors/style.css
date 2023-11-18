@@ -7,3 +7,11 @@
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
+
+.font24 {
+    font-size: 24px;
+}
+
+#green-background {
+    background-color: rgb(153, 255, 153);
+}
